@@ -1,0 +1,11 @@
+arquitectura mvc
+
+
+
+el controlador tiene el manejao de la vista y el controlador
+
+
+al instanciar el controlador , el controlador hace un handlre a las acciones del model vistasl
+
+los handle del controlador lla
+
